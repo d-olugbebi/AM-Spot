@@ -1,6 +1,14 @@
 {
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "selenium-webdriver": "^4.25.0",
+    "standard": "^17.1.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
-    "selenium-webdriver": "^4.25.0"
-    
+    "axios": "^1.7.7",
+    "open": "^10.1.0"
   }
 }
